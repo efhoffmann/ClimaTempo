@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2E7D5CA-8B88-49BD-A221-B502A7BCCBE3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C181802-DC99-4C25-89F4-21F5D7B34FDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "didUpdateWeather(weather:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33F08012-A197-45DF-8114-A43AE257A7DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "didUpdateWeather(weather:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33F08012-A197-45DF-8114-A43AE257A7DF - e546f3d98c57f4b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimaTempo.HomeViewController.didUpdateWeather(weather: ClimaTempo.WeatherApp) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "33F08012-A197-45DF-8114-A43AE257A7DF - e546f3d98c57f4b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimaTempo.HomeViewController.didUpdateWeather(weather: ClimaTempo.WeatherApp) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19D7B3AF-2EB8-460A-B1F7-9C0592E79E34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "performRequest(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19D7B3AF-2EB8-460A-B1F7-9C0592E79E34 - 6e1c8242b19630f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "805">
+               </Location>
+               <Location
+                  uuid = "19D7B3AF-2EB8-460A-B1F7-9C0592E79E34 - 6e1c8242b19630f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "970">
+               </Location>
+               <Location
+                  uuid = "19D7B3AF-2EB8-460A-B1F7-9C0592E79E34 - 6e1c8242b19630f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "19D7B3AF-2EB8-460A-B1F7-9C0592E79E34 - 6e1c8242b19630f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "989">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DD720B4-0BA4-4D14-8EF0-A865D0CA6646"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "performRequest(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DD720B4-0BA4-4D14-8EF0-A865D0CA6646 - 6e1c8242b19630d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1057">
+               </Location>
+               <Location
+                  uuid = "8DD720B4-0BA4-4D14-8EF0-A865D0CA6646 - 6e1c8242b19630d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "8DD720B4-0BA4-4D14-8EF0-A865D0CA6646 - 6e1c8242b19630d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClimaTempo.Network.performRequest(urlString: Swift.String) -&gt; ()"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04EECD49-B6DD-4793-881D-F9CBDAD10EC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "parseJSON(weatherData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D14A950-6CF7-43CF-B45A-F067BDA25EE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "parseJSON(weatherData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D14A950-6CF7-43CF-B45A-F067BDA25EE3 - bf62368cc24182c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimaTempo.WeatherViewModel.parseJSON(weatherData: Foundation.Data) -&gt; Swift.Optional&lt;ClimaTempo.WeatherApp&gt;"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "538">
+               </Location>
+               <Location
+                  uuid = "8D14A950-6CF7-43CF-B45A-F067BDA25EE3 - bf62368cc24182c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimaTempo.WeatherViewModel.parseJSON(weatherData: Foundation.Data) -&gt; Swift.Optional&lt;ClimaTempo.WeatherApp&gt;"
+                  moduleName = "ClimaTempo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/ClimaTempo/ClimaTempo/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "818">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6AF8C5E-E98E-4B9F-AA4D-9428391470FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "parseJSON(weatherData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4B86078-5C6C-41C0-8DBE-608691FB3954"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimaTempo/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "didUpdateWeather(weather:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
