@@ -36,7 +36,6 @@ struct Network {
                         self.delegate?.didUpdateWeather(weather: weather)
                         
                       print("Network ===> \(weather)")
-                        
                     }
                     
                 }
